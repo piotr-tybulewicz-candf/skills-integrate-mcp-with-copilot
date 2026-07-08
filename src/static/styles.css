@@ -57,6 +57,21 @@ section h3 {
   color: #1a237e;
 }
 
+section h4 {
+  margin-bottom: 10px;
+  color: #1a237e;
+}
+
+#auth-container form {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+#auth-status {
+  margin-bottom: 15px;
+}
+
 .activity-card {
   margin-bottom: 15px;
   padding: 15px;
